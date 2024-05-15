@@ -2,6 +2,6 @@
 
 This is my simple startpage.
 
-![](./image.png)
+![](screenshot.png)
 
 [Preview](https://ertugrulgacal.github.io/startpage/)
